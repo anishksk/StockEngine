@@ -10,7 +10,6 @@ The project has 4 files:
 ## Installation
 In order to run the project, have to follow these steps:
   1. Clone the repository
-  2. Install the necessary dependency:
-     a. pip install requests (helps get the stock tickers)
+  2. Install the necessary dependency: pip install requests (helps get the stock tickers)
   3. Run python StockEngine.py (the file has the simulation and will simulate the stock trading)
 Once you run the file, the program should work.
